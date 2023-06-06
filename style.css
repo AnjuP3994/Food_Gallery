@@ -1,0 +1,93 @@
+body{
+    width: 40cm;
+    height: 31cm;
+    background-image: url('https://img.freepik.com/premium-photo/empty-wooden-table-top-with-blurred-coffee-shop_7188-1337.jpg?w=360');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.h{
+    color:white;
+    text-align: center;
+    margin-left: 8cm;
+    font-size: 2cm;
+    text-shadow: -1px 2px 1px white;
+}
+.v{
+    width: 300px;
+    height: 800px;
+    margin-left: 3.7cm;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    
+    
+}
+.i{
+    
+    width: 250px;
+    height: 800px;
+    margin: 10px;
+    position: absolute;
+    border-style:groove;
+    border-radius: 1cm;
+    border-width: 5px;
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.356);
+    box-shadow: 0px -1px 7px 7px rgba(0,0,0,0.48);
+-webkit-box-shadow: 0px -1px 7px 7px rgba(0,0,0,0.48);
+-moz-box-shadow: 0px -1px 7px 7px rgba(0,0,0,0.48);
+}
+.a{
+    
+    left: 5px;
+}
+.img{
+    width: 230px;
+    height: 150px;
+    margin-top: 35px;
+    border-radius: 50%;
+    border-color: wheat;
+    border-style: groove;
+    box-shadow: 0px -1px 7px 7px rgba(0,0,0,0.48);
+-webkit-box-shadow: 0px -1px 7px 7px rgba(0,0,0,0.48);
+-moz-box-shadow: 0px -1px 7px 7px rgba(0,0,0,0.48);
+}
+.h1{
+    margin-top: 20px;
+    text-decoration: underline;
+    color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgba(222, 184, 135, 0.014);
+    box-shadow: 1px 1px 10px black;
+}
+
+.p{
+    text-align:justify;
+    margin-left: 15px;
+    margin-right: 15px;
+
+    
+}
+.b{
+    left: 305px;
+}
+.c{
+    left: 600px;
+}
+.d{
+    left: 900px;
+}
+.e{
+    left: 1200px;
+}
+#img{
+    width: 30px;
+    height: 30px;
+}
+#a{
+    font-size: small;
+}
+
